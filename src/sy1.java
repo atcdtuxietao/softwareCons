@@ -150,6 +150,7 @@ public class sy1 {
         String s = "commit test";
         System.out.println(s);
 
+        System.out.println("hot-fix");
     }
 
 }
