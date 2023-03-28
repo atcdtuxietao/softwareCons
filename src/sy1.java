@@ -147,7 +147,7 @@ public class sy1 {
             System.out.println("\n--------------------------------------------------------");
             sy.PrintMulAns();
         }
-
+        System.out.println("hot-fix");
     }
 
 }
