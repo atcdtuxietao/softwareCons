@@ -147,6 +147,8 @@ public class sy1 {
             System.out.println("\n--------------------------------------------------------");
             sy.PrintMulAns();
         }
+        String s = "commit test";
+        System.out.println(s);
 
     }
 
