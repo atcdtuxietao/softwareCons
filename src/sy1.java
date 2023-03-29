@@ -151,6 +151,7 @@ public class sy1 {
         System.out.println(s);
 
         System.out.println("hot-fix");
+        System.out.println("pull test");
     }
 
 }
